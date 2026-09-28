@@ -9,6 +9,7 @@ PromptShield AI is a security-focused middleware platform designed to protect LL
 
 Instead of allowing user input to reach an LLM directly, PromptShield acts as a security layer between the application and the AI model.
 
+```text
 User / Application
         │
         ▼
