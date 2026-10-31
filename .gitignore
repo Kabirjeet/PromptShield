@@ -19,3 +19,5 @@ build/
 .idea/
 
 __pycache__/
+
+backend/.venv
